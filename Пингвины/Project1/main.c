@@ -41,6 +41,6 @@ int main(){
 	}
 	paint(n % 7);
 	
-
+	system("pause");
 	return 0;
 }
